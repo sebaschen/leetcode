@@ -2,8 +2,8 @@
 
 | ID | Title | Difficulty | Python | C++ | Java | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|049|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/049-Group_Anagrams.py)|N/A|N/A|
-|053|[Maximum Subarray](https://https://leetcode.com/problems/group-anagrams/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/053-maximum_subarray.py)|N/A|N/A|
+|049|[Group Anagrams](https://https://leetcode.com/problems/group-anagrams/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/049-Group_Anagrams.py)|N/A|N/A|
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/053-maximum_subarray.py)|N/A|N/A|
 |122|[Best Time to Buy and Sell Stock II](https://https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/122_Best_Time_to_Buy_and_Sell_Stock.py)|N/A|N/A|
 |136|[Single Number](https://leetcode.com/problems/single-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/136_single_number.py)|N/A|N/A|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/202_happy_number.py)|N/A|N/A|
