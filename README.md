@@ -1,4 +1,4 @@
-## LeetCode Solution Table Li-Pu Chen 陳立圃
+## LeetCode Solution Table   Li-Pu Chen 陳立圃
 
 | ID | Title | Difficulty | Python | C++ | Java | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10,4 +10,5 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/206_reverse_linkedlist.py)|N/A|N/A|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/283-Move-Zeros.py)|N/A|N/A|
 |844|[Backspace_String_Compare](https://leetcode.com/problems/backspace-string-compare/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/844-Backspace_String_Compare.py)|N/A|N/A|
+|876|[Middle_of_the_Linked_List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/876-Middle_of_the_Linked_List.py)|N/A|N/A|
 
