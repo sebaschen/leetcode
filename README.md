@@ -1,5 +1,8 @@
 ## LeetCode Solution Table   Li-Pu Chen 陳立圃
 
+[![](https://img.shields.io/badge/language-Python-red.svg)]()
+
+
 | ID | Title | Difficulty | Python | C++ | Java | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |049|[Group Anagrams](https://https://leetcode.com/problems/group-anagrams/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/049-Group_Anagrams.py)|N/A|N/A|
