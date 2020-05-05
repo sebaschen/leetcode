@@ -7,11 +7,11 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |049|[Group Anagrams](https://https://leetcode.com/problems/group-anagrams/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/049-Group_Anagrams.py)|N/A|N/A|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|[Python]( )|N/A|N/A|
-|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/094_Binary_Tree_Inorder_Traversal.py)|N/A|N/A|
+|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/094_Binary_Tree_Inorder_Traversal.py)|N/A|N/A|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/122_Best_Time_to_Buy_and_Sell_Stock.py)|N/A|N/A|
 |136|[Single Number](https://leetcode.com/problems/single-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/136_single_number.py)|N/A|N/A|
-|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|
-|145|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/145_Binary_Tree_Postorder_Traversal.py)|N/A|N/A|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|
+|145|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Hard|[Python](https://github.com/sebaschen/leetcode/blob/master/145_Binary_Tree_Postorder_Traversal.py)|N/A|N/A|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/submissions/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/155_Min_Stack.py)|N/A|N/A|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/202_happy_number.py)|N/A|N/A|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/206_reverse_linkedlist.py)|N/A|N/A|
