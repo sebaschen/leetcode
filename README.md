@@ -8,7 +8,9 @@
 |049|[Group Anagrams](https://https://leetcode.com/problems/group-anagrams/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/049-Group_Anagrams.py)|N/A|N/A|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|[Python]( )|N/A|N/A|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/094_Binary_Tree_Inorder_Traversal.py)|N/A|N/A|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/122_Best_Time_to_Buy_and_Sell_Stock.py)|N/A|N/A|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|Tree|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/145_Binary_Tree_Postorder_Traversal.py)|N/A|N/A|Tree|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/ |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/122_Best_Time_to_Buy_and_Sell_Stock.py)|N/A|N/A|
 |136|[Single Number](https://leetcode.com/problems/single-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/136_single_number.py)|N/A|N/A|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|Tree|
 |145|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Hard|[Python](https://github.com/sebaschen/leetcode/blob/master/145_Binary_Tree_Postorder_Traversal.py)|N/A|N/A|Tree|
