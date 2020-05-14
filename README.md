@@ -9,8 +9,8 @@
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|[Python]( )|N/A|N/A|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/094_Binary_Tree_Inorder_Traversal.py)|N/A|N/A|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/101_Symmetric_Tree.py)|N/A|N/A|Tree|
-|104|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/104_Maximum_Depth_of_Binary_Tree.py)|N/A|N/A|Tree|
-|107|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/104_Maximum_Depth_of_Binary_Tree.py)|N/A|N/A|Tree|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/104_Maximum_Depth_of_Binary_Tree.py)|N/A|N/A|Tree|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/104_Maximum_Depth_of_Binary_Tree.py)|N/A|N/A|Tree|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/110-Balanced_Binary_Tree.py)|N/A|N/A|Tree|
 |136|[Single Number](https://leetcode.com/problems/single-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/136_single_number.py)|N/A|N/A|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|Tree|
