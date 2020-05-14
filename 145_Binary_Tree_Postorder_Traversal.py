@@ -13,7 +13,7 @@ class Solution:
         return res 
     
     def helper(self,root,res):
-        if root:
+        if not root:
             self.helper(root.left,res)
             self.helper(root.right,res)
             res.append(root.val)

@@ -6,7 +6,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-   
+    
     def maxDepth(self, root):
         if not root:
             return 0

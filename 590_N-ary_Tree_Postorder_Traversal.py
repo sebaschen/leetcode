@@ -20,7 +20,7 @@ class Solution:
             stack.extend(node.children) #stack = [4,2,6]
         return res[::-1]
 
-        #recursive way
+        #regit cursive way
         # """
         # # Definition for a Node.
         # class Node:
