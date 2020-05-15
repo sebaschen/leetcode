@@ -25,7 +25,6 @@
 |590|[N-ary Tree Postorder Tree](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/589_N-ary_Tree_Preorder_Traversal.py )|N/A|N/A|Tree|
 |844|[Backspace_String_Compare](https://leetcode.com/problems/backspace-string-compare/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/844-Backspace_String_Compare.py)|N/A|N/A|
 |872|[Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/872_Leaf-Similar_Trees.py)|N/A|N/A|Tree|
-
 |876|[Middle_of_the_Linked_List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/876-Middle_of_the_Linked_List.py)|N/A|N/A|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/1046_Last_Stone_Weight.py)|N/A|N/A|
 
