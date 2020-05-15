@@ -20,4 +20,4 @@ class Solution:
                     next_level.append(node.right)
             current = next_level #current更新為下層node
             res.append(vals)        
-        return res[::-1] #result要reverse過來
+        return res[::-1] #cv
