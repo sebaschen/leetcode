@@ -15,7 +15,8 @@
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/104_Maximum_Depth_of_Binary_Tree.py)|N/A|N/A|Tree|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/110-Balanced_Binary_Tree.py)|N/A|N/A|Tree|
 |136|[Single Number](https://leetcode.com/problems/single-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/136_single_number.py)|N/A|N/A|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|[Python](https://github.com/sebaschen/leetcode/edit/master/README.md)|N/A|N/A|List|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/141_Linked_List_Cycle.py)|N/A|N/A|List|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/142_Linked_List_Cycle_II.py)|N/A|N/A|List|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|Tree|
 |145|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Hard|[Python](https://github.com/sebaschen/leetcode/blob/master/145_Binary_Tree_Postorder_Traversal.py)|N/A|N/A|Tree|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/submissions/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/155_Min_Stack.py)|N/A|N/A|
