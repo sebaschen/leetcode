@@ -5,19 +5,22 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def sortList(self, head):
+        #Considering boundary case: None
         if not head or not head.next:
             return head
-        slow = fast = head  
+        slow = fast = head
         while fast and fast.next:
-            pre = slow
-            slow = slow.next   #慢指针走一步
-            fast = fast.next.next  # 快指针走两步
-        pre.next = None   # 将左右两半截断
-        return self.merge(self.sortList(head), self.sortList(slow))
+            pre = slow 
+            slow = slow.next #slow pointer take one step each time 
+            fast = fast.next.next #fast pointer take two steps each time
+        pre.next = None #cut the list in half
+        return self.merge(self.sortList(head),self.sortList(slow))
 
     def merge(self , left,right):
+        #simply mergesort
         res = cur = ListNode(0)
         while left and right:
             if left.val < right.val:
@@ -28,7 +31,7 @@ class Solution:
                 cur.next = right
                 right = right.next
                 cur = cur.next
-            if left :
+            if left:
                 cur.next = left
             if right:
                 cur.next = right
