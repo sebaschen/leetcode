@@ -1,15 +1,18 @@
-# # Definition for singly-linked list.
+# Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
 class Solution:
-    def reverseList(self, head: ListNode) -> ListNode:
-        dummy = ListNode(float("-inf")) #給定初始值，create一個新node,不影響他的值, 才用float("-inf")
-        while head: #只要有head存在
-            dummy.next, head.next, head = head, dummy.next, head.next
-        return dummy.next 
-
-
-
+    def reverseList(self, head):
+        
+        prev = None 
+        curr = head        
+        while curr:
+            next = curr.next #先存後面
+            curr.next = prev#斷掉第一個和後面的
+            prev = curr#將斷的第一個存到答案
+            curr= next #迭代第一個
+        return prev
+        
