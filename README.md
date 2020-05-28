@@ -1,7 +1,6 @@
 ## LeetCode Solution Table   Li-Pu Chen 陳立圃
 
 [![](https://img.shields.io/badge/language-Python-red.svg)]()
-https://github.com/sebaschen/leetcode/blob/master/021_Merge_Two_Sorted_Lists.py
 
 | ID | Title | Difficulty | Python | C++ | Java | Tag
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -21,6 +20,7 @@ https://github.com/sebaschen/leetcode/blob/master/021_Merge_Two_Sorted_Lists.py
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/144_Binary_Tree_Preorder_Traversal.py)|N/A|N/A|Tree|
 |145|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Hard|[Python](https://github.com/sebaschen/leetcode/blob/master/145_Binary_Tree_Postorder_Traversal.py)|N/A|N/A|Tree|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/submissions/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/155_Min_Stack.py)|N/A|N/A|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/ |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/200_Number_of_Islands.py)|N/A|N/A|Graph|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/202_happy_number.py)|N/A|N/A|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/206_reverse_linkedlist.py)|N/A|N/A|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/) |Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/283-Move-Zeros.py)|N/A|N/A|
