@@ -8,6 +8,7 @@
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/017_Letter_combination_of_a_phone_number.py)|N/A|N/A|BFS|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/021_Merge_Two_Sorted_Lists.py)|N/A|N/A|List|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/024_Swap_Nodes_in_Pairs.py)|N/A|N/A|List|
+|039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/039_Combination_sum.py)|N/A|N/A|BFS|
 |049|[Group Anagrams](https://https://leetcode.com/problems/group-anagrams/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/049-Group_Anagrams.py)|N/A|N/A|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|[Python](https://github.com/sebaschen/leetcode/blob/master/002_Add_Two_Numbers.py )|N/A|N/A|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[Python](https://github.com/sebaschen/leetcode/blob/master/094_Binary_Tree_Inorder_Traversal.py)|N/A|N/A|
