@@ -24,7 +24,6 @@ class Solution:
     def __dfs(self, grid, x, y, n, m):
         if x < 0 or y < 0 or x >=n or y >= m or grid[y][x] == '0':
             return None  #return none 會繼續跑下行程式
-        print(x,y)
         #走過的Node即改成0,視為已經踩過
         grid[y][x] = '0'
         

@@ -1,4 +1,4 @@
-# 141. Linked List Cycle
+# 141. gi
 # 141_Linked_List_Cycle
 
 # Definition for singly-linked list.

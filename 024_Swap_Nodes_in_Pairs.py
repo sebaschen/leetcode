@@ -11,7 +11,6 @@ class Solution:
         if not head or not head.next:
             return head
         dummy = ListNode(0)
-        dummy = ListNode(0)
         dummy.next = head
         head = dummy
         while head.next and head.next.next:
